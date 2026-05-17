@@ -1,24 +1,10 @@
-# Python
 venv/
 __pycache__/
 *.pyc
-
-# Large files
 *.deb
 *.tar.gz
 *.zip
-
-# Streamlit
 .streamlit/
-
-# OS files
 .DS_Store
-
-# Logs
 *.log
-
-# Database
 *.db
-
-# Docker
-docker-compose.override.yml
