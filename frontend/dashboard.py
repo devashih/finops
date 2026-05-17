@@ -80,3 +80,15 @@ st.dataframe(critical_alerts)
 st.success(
     "FinOps Governance Engine Running Successfully"
 )
+
+st.sidebar.title("Navigation")
+
+page = st.sidebar.radio(
+    "Go To",
+    [
+        "Dashboard",
+        "Rightsizing",
+        "Compliance",
+        "Anomalies"
+    ]
+)
