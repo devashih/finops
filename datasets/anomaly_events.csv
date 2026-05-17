@@ -1,0 +1,4 @@
+service,expected_cost,actual_cost,severity
+EC2,50000,92000,P1
+RDS,30000,47000,P2
+S3,10000,16000,P3

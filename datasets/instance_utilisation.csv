@@ -1,0 +1,6 @@
+instance_id,instance_type,avg_cpu,monthly_cost
+i-101,m5.2xlarge,12,850
+i-102,m5.xlarge,18,420
+i-103,t3.large,65,180
+i-104,r5.2xlarge,15,900
+i-105,c5.large,72,250

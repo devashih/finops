@@ -1,0 +1,6 @@
+resource_id,resource_type,missing_tags,compliance_status
+i-101,EC2,team,NON_COMPLIANT
+i-102,EC2,,COMPLIANT
+rds-001,RDS,cost_center,NON_COMPLIANT
+s3-001,S3,,COMPLIANT
+eks-001,EKS,environment,NON_COMPLIANT

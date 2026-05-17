@@ -1,0 +1,5 @@
+resource_id,resource_type,monthly_cost,status
+vol-001,EBS,45,UNUSED
+snap-001,SNAPSHOT,30,OLD
+lb-001,LOAD_BALANCER,80,IDLE
+ec2-dev-01,EC2,220,STOPPABLE
